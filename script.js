@@ -1,5 +1,5 @@
 // Scrittura di un programma che stampi i numeri da 0 a 100
-//Dove i relativi numeri divisibili per 3 o per 5 rappresentano la frase 'Frizz-Buzz'
+//Dove i relativi numeri divisibili per 3 o per 5 rappresentano la frase 'Frizz-Buzz' oppure separatamente
 
 // Indice esppresso in variabile
 let Index = 1;
